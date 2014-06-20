@@ -1,2 +1,0 @@
-MySQL-python:
-  pkg.installed
